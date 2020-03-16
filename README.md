@@ -7,6 +7,8 @@
 * [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
 * [4. Consideraciones generales](#4-consideraciones-generales)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
+Definición del producto, historias de usuario y diseño de la interfaz de usuario lo piodras enconctrar en: 
+https://www.figma.com/proto/4y8YbutXHYsqrCf3Xl3Szp/Presentacion-Data-Lovers?node-id=1%3A2&scaling=contain
 * [6. Parte adicional-opcional (extensión)](#6-parte-adicional-opcional-extensión)
 * [7. Consideraciones técnicas](#7-consideraciones-técnicas)
 * [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)

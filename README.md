@@ -106,7 +106,7 @@ y de equipo.
 ### DOM
 
 - [X] Entender y reconocer los selectores del DOM (querySelector | querySelectorAll).
-- [X] Manejar eventos del DOM. (addEventListener)
+- [ ] Manejar eventos del DOM. (addEventListener)
 - [X] Manipular dinámicamente el DOM. (createElement, appendchild, innerHTML, value)
 
 ### Javascript

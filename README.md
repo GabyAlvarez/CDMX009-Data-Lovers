@@ -20,6 +20,9 @@ Si quieres ver la demo de este proyecto, puedes visitar [Pokedex](https://gabyal
 
 ## 3. Prototipo
 
+<img src="/src/imgReadme/mainView.png" alt="MainView" width="250px">
+<img src="/src/imgReadme/mobile.JPG" alt="Mobile" width="150px">
+
 ## 4. Objetivos de aprendizaje
 
 El objetivo principal de este proyecto es que, entendiendo las necesidades de

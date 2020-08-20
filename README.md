@@ -21,22 +21,9 @@ https://www.figma.com/proto/4y8YbutXHYsqrCf3Xl3Szp/Presentacion-Data-Lovers?node
 Pokedex es una aplicación web desarrollada para las personas que les gusta Pokemon Go, ya sean nuevos usuarios o jugadores activos que desean ampliar su conocimiento y tener un mejor rendiemineto en el juego. Pokedex te permite visualizar, filtrar y ordenar, los 151 pokemon de la regin Kanto, por su nombre, tipo o alguna de sus caracteristicas que te interese. 
 
 ***
-## 2. Resumen del proyecto
+## 2. Demo
 
-En este proyecto **construirás una _página web_ para visualizar un
-_conjunto (set) de datos_** que se adecúe a lo que tu usuario necesita.
-
-Como entregable final tendrás una página web que permita a los usuarios
-**visualizar, filtrar, ordenar, etc.**.
-
-Te proponemos una serie de datos de diferentes _temáticas_ para que los
-explores y decidas con cuál te interesa trabajar. Cada _set_ de datos viene con
-información básica sobre los datos y su estructura, y una lista de las
-necesidades de los usuarios que proviene de una investigación (_research_)
-hecha por el equipo de Laboratoria.
-
-Una vez que elijas, diseña tu proyecto intentando ofrecerle la mejor experiencia
-posible para ayudarle a satisfacer sus necesidades.
+Si quieres ver la demo de este proyecto desplegada, puedes visitar [Pokedex](https://gabyalvarez.github.io/CDMX009-Data-Lovers/) 
 
 ### Estos son datos que te proponemos:
 

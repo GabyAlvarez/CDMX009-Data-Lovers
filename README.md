@@ -4,8 +4,8 @@
 
 * [1. Resumen del proyecto](#1-resumen-del-proyecto)
 * [2. Demo](#2-demo)
-* [2. Prototipo](#2-prototipo)
-* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
+* [2. Prototipo](#3-prototipo)
+* [3. Objetivos de aprendizaje](#4-objetivos-de-aprendizaje)
 
 ***
 
